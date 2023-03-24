@@ -1,0 +1,38 @@
+.headerbox {
+  background: #ced4da;
+  height:100px;
+  text-align: center;
+}
+
+.usernamenaja {
+    height: 36px;
+    width: 10px;
+    border-radius: 10px;
+    background: #6c757d;
+}
+
+.profileimg {
+    border-radius: 10px;
+}
+
+.newsbox {
+    border: solid black;
+    background: #ced4da;
+    height: 450px;
+}
+
+.othernewsbox {
+    border: solid black;
+    background: #ced4da;
+    height: 540px;
+}
+
+.footerbox {
+  background: #ced4da;
+  height:300px;
+  text-align: center;
+}
+#myDiv {
+  transform: rotateZ(270deg);
+}
+

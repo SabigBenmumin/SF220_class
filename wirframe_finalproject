@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T11:25:27.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_bWc8O_k4XI1jZoDCL26" version="21.2.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-04-25T11:38:06.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vnC7h4WTSvkvzbjrHzD5" version="21.2.1" type="github" pages="6">
   <diagram id="70cf2WbonqIqKUrpjate" name="Login">
     <mxGraphModel dx="4033" dy="3313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -478,7 +478,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jSyG_ekqYn_QLejnRGK6" name="key_order">
-    <mxGraphModel dx="650" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1139,7 +1139,7 @@
           <mxGeometry x="3230" y="40" width="2090" height="1520.2439024390244" as="geometry" />
         </mxCell>
         <mxCell id="aJc2_ZwoMhqUnD5O_GD3-247" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="aJc2_ZwoMhqUnD5O_GD3-400">
-          <mxGeometry width="1000" height="680" as="geometry" />
+          <mxGeometry width="1070" height="680" as="geometry" />
         </mxCell>
         <mxCell id="aJc2_ZwoMhqUnD5O_GD3-248" value="Order" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="aJc2_ZwoMhqUnD5O_GD3-247">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -1292,6 +1292,24 @@
         <mxCell id="aJc2_ZwoMhqUnD5O_GD3-425" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.discordapp.com/attachments/979458895972020244/1100380931606450202/fried-vegetables-chicken-sauce-with-sesame.jpg;clipPath=inset(12.33% 1.5% 26% 1.5%);" vertex="1" parent="aJc2_ZwoMhqUnD5O_GD3-413">
           <mxGeometry x="11.620000000000005" width="124.79" height="119" as="geometry" />
         </mxCell>
+        <mxCell id="aJc2_ZwoMhqUnD5O_GD3-427" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aJc2_ZwoMhqUnD5O_GD3-247">
+          <mxGeometry x="690" y="454" width="310" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="aJc2_ZwoMhqUnD5O_GD3-429" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Charge&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aJc2_ZwoMhqUnD5O_GD3-247">
+          <mxGeometry x="721.5" y="620" width="258.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aJc2_ZwoMhqUnD5O_GD3-430" value="&lt;font color=&quot;#808080&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Subtotal&lt;br&gt;discount&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Total&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="aJc2_ZwoMhqUnD5O_GD3-247">
+          <mxGeometry x="730" y="470" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aJc2_ZwoMhqUnD5O_GD3-431" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Subtotal&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="aJc2_ZwoMhqUnD5O_GD3-247">
+          <mxGeometry x="860" y="470" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia6pRDIkKC-rpT81lSvj-4" value="Thai" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aJc2_ZwoMhqUnD5O_GD3-247">
+          <mxGeometry x="710" y="130" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia6pRDIkKC-rpT81lSvj-5" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aJc2_ZwoMhqUnD5O_GD3-247">
+          <mxGeometry x="890" y="130" width="90" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="aJc2_ZwoMhqUnD5O_GD3-354" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="aJc2_ZwoMhqUnD5O_GD3-400">
           <mxGeometry x="25" y="119" width="502" height="95.75" as="geometry" />
         </mxCell>
@@ -1317,10 +1335,22 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S4eLHrMg4v0ym4on6vRV" name="bill">
-    <mxGraphModel dx="1050" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="75" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BCny5FJ9GE9s3ludVpOs-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3325" y="940" width="1000" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="BCny5FJ9GE9s3ludVpOs-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="BCny5FJ9GE9s3ludVpOs-1">
+          <mxGeometry width="1000" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="BCny5FJ9GE9s3ludVpOs-3" value="Bill" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="BCny5FJ9GE9s3ludVpOs-2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BCny5FJ9GE9s3ludVpOs-4" value="https://www.lowbaty.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="BCny5FJ9GE9s3ludVpOs-2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

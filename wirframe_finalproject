@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T18:11:12.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="D5cC58rm4PYNHW3NsJfb" version="21.2.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-25T18:14:42.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="mIdW8-i49AFR4IT-ah-U" version="21.2.1" type="github" pages="7">
   <diagram id="70cf2WbonqIqKUrpjate" name="Login">
     <mxGraphModel dx="4325" dy="3785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -765,7 +765,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S4eLHrMg4v0ym4on6vRV" name="bill">
-    <mxGraphModel dx="-1526" dy="-124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1048" dy="-375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1058,7 +1058,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TkINmmX1pLnM5uvteDNg" name="dash board">
-    <mxGraphModel dx="1286" dy="1184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="580" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1258,7 +1258,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jSyG_ekqYn_QLejnRGK6" name="Overall">
-    <mxGraphModel dx="7970" dy="5047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="8360" dy="4725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
